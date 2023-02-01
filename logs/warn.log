@@ -1,0 +1,245 @@
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-08-24T23:35:20.483Z'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:03:363'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:19:3619'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:31:3631'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:31:3631'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:37:3637'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:37:3637'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:38:3638'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:38:3638'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:37:18:3718'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:37:18:3718'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:39:37:3937'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:39:37:3937'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:39:55:3955'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:39:55:3955'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:40:37:4037'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:40:37:4037'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:40:45:4045'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:40:45:4045'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:09:429'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:09:429'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:11:4211'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:11:4211'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:22:4222'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:22:4222'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:54:4254'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:54:4254'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:19:4519'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:19:4519'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:22:4522'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:22:4522'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:24:4524'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:24:4524'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:41:4541'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:41:4541'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:46:55:4655'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:46:55:4655'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:05:475'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:32:4732'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:44:4744'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:51:4751'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:47:51:4751'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:58:4758'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:47:58:4758'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:48:15:4815'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:48:15:4815'[39m
+[33m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:50:51:5051'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:50:51:5051'[39m
+[33m}[39m
+[31m2022-24-08 20:55:45:5545 - error: Não foi possível se conectar ao banco!![39m
+[31m2022-24-08 20:55:45:5545 - error: Erro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+[31m2022-28-08 22:14:09:149 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m
+[31m2022-28-08 22:14:42:1442 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m
+[31m2022-28-08 22:15:14:1514 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m

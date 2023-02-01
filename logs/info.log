@@ -1,0 +1,762 @@
+2022-08-24 19:59:03:593 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 19:59:12:5912 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 19:59:28:5928 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 19:59:47:5947 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 20:01:13:113 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 20:07:12:712 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 20:07:18:718 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 20:08:17:817 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+2022-08-24 20:08:46:846 - [32minfo[39m: [32mAPI rodando na porta http://localhost:5000[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:31:32.675Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:32:15.574Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:32:23.997Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:32:30.969Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:32:39.882Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:32:40.489Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:33:15.349Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:33:27.624Z'[39m
+[32m}[39m
+[33m{[39m
+[33m  message: 'SOme',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-08-24T23:33:37.764Z'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:33:37.767Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:33:44.897Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:37.511Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:37.511Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:37.511Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:37.511Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:38.507Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:38.507Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:38.507Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:38.507Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:39.741Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:39.741Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:39.741Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:39.741Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:44.032Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:44.032Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:44.032Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:44.032Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:47.570Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:47.570Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:47.570Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:50.194Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:50.194Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:50.194Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:58.680Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:58.680Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:34:58.680Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:01.339Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:01.339Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:07.818Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:07.818Z'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:10.615Z'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-08-24T23:35:20.483Z'[39m
+[31m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-08-24T23:35:20.486Z'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:03:363'[39m
+[31m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:36:03:363'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:19:3619'[39m
+[31m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:36:19:3619'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:31:3631'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:31:3631'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:36:31:3631'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:37:3637'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:37:3637'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:36:37:3637'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:36:38:3638'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:36:38:3638'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:36:38:3638'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:37:18:3718'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:37:18:3718'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:37:18:3718'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:39:37:3937'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:39:37:3937'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:39:37:3937'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:39:55:3955'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:39:55:3955'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:39:55:3955'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:40:37:4037'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:40:37:4037'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:40:37:4037'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:40:45:4045'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:40:45:4045'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:40:45:4045'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:09:429'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:09:429'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:42:09:429'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:11:4211'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:11:4211'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:42:11:4211'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:22:4222'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:22:4222'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:42:22:4222'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:42:54:4254'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:42:54:4254'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:42:54:4254'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:19:4519'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:19:4519'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:45:19:4519'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:22:4522'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:22:4522'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:45:22:4522'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:24:4524'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:24:4524'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:45:24:4524'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:45:41:4541'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:45:41:4541'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:45:41:4541'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:46:55:4655'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:46:55:4655'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:46:55:4655'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:05:475'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:32:4732'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:44:4744'[39m
+[31m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:51:4751'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:47:51:4751'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:47:51:4751'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:47:58:4758'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:47:58:4758'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:47:58:4758'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:48:15:4815'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:48:15:4815'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:48:15:4815'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Some',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-24-08 20:50:51:5051'[39m
+[31m}[39m
+[33m{[39m
+[33m  message: 'Some',[39m
+[33m  level: 'warn',[39m
+[33m  timestamp: '2022-24-08 20:50:51:5051'[39m
+[33m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:50:51:5051'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:51:15:5115'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:51:48:5148'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:51:57:5157'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:52:01:521'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'Conectou ao banco!!',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:52:36:5236'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:52:36:5236'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'Conectou ao banco!!',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:52:38:5238'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'API rodando na porta http://localhost:5000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-24-08 20:52:38:5238'[39m
+[32m}[39m
+[32m2022-24-08 20:55:03:553 - info: Conectou ao banco!![39m
+[32m2022-24-08 20:55:03:553 - info: API rodando na porta http://localhost:5000[39m
+[31m2022-24-08 20:55:45:5545 - error: Não foi possível se conectar ao banco!![39m
+[31m2022-24-08 20:55:45:5545 - error: Erro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+[32m2022-24-08 20:55:45:5545 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 20:55:47:5547 - info: Conectou ao banco!![39m
+[32m2022-24-08 20:55:47:5547 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 20:56:16:5616 - info: Conectou ao banco!![39m
+[32m2022-24-08 20:56:16:5616 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 20:56:26:5626 - info: Conectou ao banco!![39m
+[32m2022-24-08 20:56:26:5626 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:02:49:249 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:02:49:249 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:03:09:39 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:03:09:39 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:03:18:318 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:03:18:318 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:03:42:342 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:03:42:342 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:04:07:47 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:04:07:47 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:04:15:415 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:04:15:415 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:04:17:417 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:04:17:417 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:05:36:536 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:05:36:536 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-24-08 21:18:04:184 - info: Conectou ao banco!![39m
+[32m2022-24-08 21:18:04:184 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:35:55:3555 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:35:55:3555 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:36:36:3636 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:36:36:3636 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:37:04:374 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:37:04:374 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:37:19:3719 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:37:19:3719 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:37:24:3724 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:37:24:3724 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:38:02:382 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:38:02:382 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:38:22:3822 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:38:22:3822 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:38:35:3835 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:38:35:3835 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:39:49:3949 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:39:49:3949 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:24:4724 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:24:4724 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:27:4727 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:27:4727 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:33:4733 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:33:4733 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:34:4734 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:34:4734 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:37:4737 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:37:4737 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:41:4741 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:41:4741 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 21:47:50:4750 - info: Conectou ao banco!![39m
+[32m2022-28-08 21:47:50:4750 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:00:20:020 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:00:20:020 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:00:27:027 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:00:27:027 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:02:33:233 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:02:33:233 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:02:39:239 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:02:39:239 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:02:56:256 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:02:56:256 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:03:00:30 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:03:00:30 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:03:29:329 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:03:29:329 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:03:52:352 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:03:52:352 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:04:35:435 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:04:35:435 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:05:04:54 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:05:04:54 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:07:39:739 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:07:39:739 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:08:50:850 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:08:50:850 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:09:28:928 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:09:28:928 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:09:31:931 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:09:31:931 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:09:56:956 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:09:56:956 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:10:06:106 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:10:06:106 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:10:07:107 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:10:07:107 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:10:19:1019 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:10:19:1019 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:10:45:1045 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:10:45:1045 - info: API rodando na porta http://localhost:5000[39m
+[31m2022-28-08 22:14:09:149 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m
+[31m2022-28-08 22:14:42:1442 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m
+[32m2022-28-08 22:15:11:1511 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:15:11:1511 - info: API rodando na porta http://localhost:5000[39m
+[31m2022-28-08 22:15:14:1514 - error: Erro no sistema Cast to ObjectId failed for value "movie" (type string) at path "_id" for model "Movie"[39m
+[32m2022-28-08 22:15:36:1536 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:15:36:1536 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:17:53:1753 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:17:53:1753 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:18:24:1824 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:18:24:1824 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:18:31:1831 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:18:31:1831 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:19:08:198 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:19:08:198 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:19:36:1936 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:19:36:1936 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:20:01:201 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:20:01:201 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:20:15:2015 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:20:15:2015 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:21:20:2120 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:21:20:2120 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:22:37:2237 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:22:37:2237 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:22:40:2240 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:22:40:2240 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:22:53:2253 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:22:53:2253 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:23:40:2340 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:23:40:2340 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:25:27:2527 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:25:27:2527 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:25:55:2555 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:25:55:2555 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:25:57:2557 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:25:57:2557 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:26:44:2644 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:26:44:2644 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:27:03:273 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:27:03:273 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:27:09:279 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:27:09:279 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:29:29:2929 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:29:29:2929 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:29:43:2943 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:29:43:2943 - info: API rodando na porta http://localhost:5000[39m
+[32m2022-28-08 22:29:56:2956 - info: Conectou ao banco!![39m
+[32m2022-28-08 22:29:56:2956 - info: API rodando na porta http://localhost:5000[39m
